@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    page: 50px;
+    gap: 20px;
+    
+}
+
+
+.options {
+    width: 150px;
+    height: 150px;
+    border:  1px solid black;
+}
+
+.vite{
+    height: 50%;
+}
+button {
+    margin-top: 40px;
+    background-color: rgb(220, 216, 216);
+}
+
